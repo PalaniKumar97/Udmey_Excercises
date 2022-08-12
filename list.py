@@ -8,6 +8,7 @@ shopping=['Vegetables','Bakery Items','Grocercy']
 #lists can be changeable,also access based on memory spaces
 print(item_lst)
 print(shopping[0:2])
+print(item_lst)
 print(shopping[:])
 item_lst1[1]=26
 items=item_lst1
