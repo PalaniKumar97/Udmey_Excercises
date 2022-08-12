@@ -10,9 +10,10 @@ print(item_lst)
 print(shopping[0:2])
 print(item_lst)
 print(shopping[:])
-item_lst1[1]=26
+item_lst1[1]=28
 items=item_lst1
 print(items)
+print(len(items))
 print(len(shopping))
 shopping.append('Toys')
 shopping.remove(shopping[1])
