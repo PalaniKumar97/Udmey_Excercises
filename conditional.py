@@ -8,3 +8,4 @@ elif is_noteligible:
     print("Cast your Vote Nexttime")
 else:
     print("Invalid Request")
+    print("Not Eligible to Vote")
